@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "999937279994",
+    "firebase_url": "https://anonymouschat-84cfb.firebaseio.com",
+    "project_id": "anonymouschat-84cfb",
+    "storage_bucket": "anonymouschat-84cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999937279994:android:4217f85bc5df78cb",
+        "android_client_info": {
+          "package_name": "com.GrezhdieruDaniel.anonymouschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999937279994-b22cc0okjomq9sdvba7jem6g9ac13jaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.GrezhdieruDaniel.anonymouschat",
+            "certificate_hash": "099c5242567adf225f3e3105426d0638d36a976a"
+          }
+        },
+        {
+          "client_id": "999937279994-sonhe2hbkce3228ataqn63ln25upbmi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQb0CN7wh8cCGHDYGMeT5zCwYX-O5xLKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999937279994-sonhe2hbkce3228ataqn63ln25upbmi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999937279994:android:24e7fc3ba244da8d",
+        "android_client_info": {
+          "package_name": "com.example.anonymouschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999937279994-plcltpm5d7k2lv0e1oubtb513fgjeasq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anonymouschat",
+            "certificate_hash": "099c5242567adf225f3e3105426d0638d36a976a"
+          }
+        },
+        {
+          "client_id": "999937279994-sonhe2hbkce3228ataqn63ln25upbmi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQb0CN7wh8cCGHDYGMeT5zCwYX-O5xLKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999937279994-sonhe2hbkce3228ataqn63ln25upbmi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
